@@ -1,0 +1,16 @@
+<suite name="ExampleSuite">
+    <test name="UserTests">
+        <classes>
+            <class name="Testing.RegisterUser"/>
+            <class name="Testing.LoginUserCorrect"/>
+            <class name="Testing.LoginUserIncorrect"/>
+            <class name="Testing.LogoutUser"/>
+            <class name="Testing.RegisterUserExistingEmail"/>
+            <class name="Testing.ContactUsForm"/>
+            <class name="Testing.VerifyTestCasesPage"/>
+            <class name="Testing.VerifyAllProducts"/>
+            <class name="Testing.SearchProduct"/>
+            <class name="Testing.VerifySubscriptionHome"/>
+        </classes>
+    </test>
+</suite>
